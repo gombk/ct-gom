@@ -1,0 +1,12 @@
+ContaTentoGom.doze, ContaTentoGom;md52c93a12dea8468950a469ebd5c000c95.doze
+ContaTentoGom.doze, ContaTentoGom, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52c93a12dea8468950a469ebd5c000c95.doze
+ContaTentoGom.doze;md52c93a12dea8468950a469ebd5c000c95.doze
+contatentogom.doze;md52c93a12dea8468950a469ebd5c000c95.doze
+ContaTentoGom.MainActivity, ContaTentoGom;md52c93a12dea8468950a469ebd5c000c95.MainActivity
+ContaTentoGom.MainActivity, ContaTentoGom, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52c93a12dea8468950a469ebd5c000c95.MainActivity
+ContaTentoGom.MainActivity;md52c93a12dea8468950a469ebd5c000c95.MainActivity
+contatentogom.MainActivity;md52c93a12dea8468950a469ebd5c000c95.MainActivity
+ContaTentoGom.quinze, ContaTentoGom;md52c93a12dea8468950a469ebd5c000c95.quinze
+ContaTentoGom.quinze, ContaTentoGom, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52c93a12dea8468950a469ebd5c000c95.quinze
+ContaTentoGom.quinze;md52c93a12dea8468950a469ebd5c000c95.quinze
+contatentogom.quinze;md52c93a12dea8468950a469ebd5c000c95.quinze

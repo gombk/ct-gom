@@ -1,0 +1,34 @@
+C:\Users\Lucas Zenaro\Documents\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\bin\Release\ContaTentoGom.dll
+C:\Users\Lucas Zenaro\Documents\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\bin\Release\ContaTentoGom.pdb
+C:\Users\Lucas Zenaro\Documents\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\bin\Release\com.lucaszenaro.contatento.apk
+C:\Users\Lucas Zenaro\Documents\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\bin\Release\com.lucaszenaro.contatento-Signed.apk
+C:\Users\Lucas Zenaro\Documents\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\ContaTentoGom.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Zenaro\Documents\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\ContaTentoGom.dll
+C:\Users\Lucas Zenaro\Documents\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\ContaTentoGom.pdb
+C:\Users\Lucas Zenaro\Documents\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\android\bin\com.lucaszenaro.contatento.apk
+C:\Users\Lucas Zenaro\Documents\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\res\layout\main.xml
+C:\Users\Lucas Zenaro\Documents\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\res\values\strings.xml
+C:\Users\Lucas Zenaro\Documents\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\res\values\theme.xml
+C:\Users\Lucas Zenaro\Documents\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\R.cs.flag
+C:\Users\Lucas Zenaro\Documents\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\uploadflags.txt
+C:\Users\Lucas Zenaro\Documents\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\bin\Release\ContaTentoGom.dll.mdb
+C:\Users\Lucas Zenaro\Documents\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\android\assets\ContaTentoGom.dll.mdb
+G:\Win 10\Meus documentos\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\bin\Release\ContaTentoGom.dll
+G:\Win 10\Meus documentos\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\bin\Release\ContaTentoGom.pdb
+G:\Win 10\Meus documentos\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\bin\Release\com.lucaszenaro.contatento.apk
+G:\Win 10\Meus documentos\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\bin\Release\com.lucaszenaro.contatento-Signed.apk
+G:\Win 10\Meus documentos\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\ContaTentoGom.csprojResolveAssemblyReference.cache
+G:\Win 10\Meus documentos\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\ContaTentoGom.csproj.CoreCompileInputs.cache
+G:\Win 10\Meus documentos\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\ContaTentoGom.dll
+G:\Win 10\Meus documentos\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\ContaTentoGom.pdb
+G:\Win 10\Meus documentos\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\android\bin\com.lucaszenaro.contatento.apk
+G:\Win 10\Meus documentos\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\res\layout\main.xml
+G:\Win 10\Meus documentos\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\res\values\strings.xml
+G:\Win 10\Meus documentos\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\res\values\theme.xml
+G:\Win 10\Meus documentos\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\R.cs.flag
+G:\Win 10\Meus documentos\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\uploadflags.txt
+G:\Win 10\Meus documentos\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\bin\Release\ContaTentoGom.dll.mdb
+G:\Win 10\Meus documentos\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\android\assets\ContaTentoGom.dll.mdb
+G:\Win 10\Meus documentos\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\res\drawable\btn_style.xml
+G:\Win 10\Meus documentos\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\res\values\styles.xml
+G:\Win 10\Meus documentos\Visual Studio 2017\Projects\ContaTentoGom\ContaTentoGom\obj\Release\res\drawable\btn_truco_reset.xml
